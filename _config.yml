@@ -1,0 +1,28 @@
+name: NasaDeLuca
+favicon: null
+layout_spectrum: 0.274884439073503
+typography_spectrum: 0.9972169371321797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.051875021774321795
+  lightness: 0.00032071652822196484
+  saturation: 0.8697740498464555
+  rhythmicContrast: 0.2385096992366016
+purpose: []
